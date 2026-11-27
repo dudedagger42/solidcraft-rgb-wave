@@ -3,10 +3,11 @@
   "id": "rgb-wave",
   "name": "RGB Wave",
   "kind": "plugin",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "licence": "MIT",
   "min_app_version": "0.49.1",
   "summary": "A hue wave that runs across the window, washing ribbon icons, button blocks and panels with colour.",
+  "description": "WORKSHOP.md",
   "category": "other",
   "tags": [
     "tint",
@@ -18,7 +19,7 @@
   "permissions": [],
   "files": [
     {
-      "asset": "rgb-wave-2.0.1.zip",
+      "asset": "rgb-wave-2.0.2.zip",
       "role": "package"
     },
     {

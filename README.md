@@ -14,7 +14,7 @@ This is version 2.0.0 for SolidCraft 0.49.1 and newer. It is a plugin on the sto
 Needs SolidCraft **0.49.1 or newer**.
 
 1. Open Preferences > Plugins.
-2. Click **Install plugin...** and pick `rgb-wave-2.0.1.zip`.
+2. Click **Install plugin...** and pick `rgb-wave-2.0.2.zip`.
 3. On the RGB Wave card, tick **Tint: RGB wave**.
 
 ## Settings
