@@ -1,6 +1,6 @@
-# RGB Wave 2.0.0
+# RGB Wave
 
-![screenshot](screenshots/effect.png)
+![screenshot](https://raw.githubusercontent.com/dudedagger42/solidcraft-rgb-wave/v2.0.1/screenshots/effect.png)
 
 A colour wave for SolidCraft. One hue wave runs across the window: the ribbon's command
 icons take it, the ribbon button blocks and the UI panels are washed with it, and it moves
@@ -14,7 +14,7 @@ This is version 2.0.0 for SolidCraft 0.49.1 and newer. It is a plugin on the sto
 Needs SolidCraft **0.49.1 or newer**.
 
 1. Open Preferences > Plugins.
-2. Click **Install plugin...** and pick `rgb-wave-2.0.0.zip`.
+2. Click **Install plugin...** and pick `rgb-wave-2.0.1.zip`.
 3. On the RGB Wave card, tick **Tint: RGB wave**.
 
 ## Settings
